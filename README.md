@@ -1,7 +1,7 @@
 ### About [Me](https://scholar.google.com/)
 
 <p align="left"> 
-Welcome! You are the <img src="https://profile-counter.glitch.me/ImKeTT/count.svg" /> visitor!
+Welcome! You are the <img src="https://profile-counter.glitch.me/gmftbyGMFTBY/count.svg" /> visitor!
 </p>
 
 I am currently a Ph.D. student at Beijing Institute of Technology. 
