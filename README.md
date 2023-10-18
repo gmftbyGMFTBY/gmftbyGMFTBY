@@ -1,5 +1,9 @@
 ### About [Me](https://scholar.google.com/)
 
+<p align="left"> 
+Welcome! You are the <img src="https://profile-counter.glitch.me/ImKeTT/count.svg" /> visitor!
+</p>
+
 I am currently a Ph.D. student at Beijing Institute of Technology. 
 My current research interests lie in the dialogue system, large-scale language models, natural language evaluation, multimodal large-scale language models, and LLM as agent.
 
