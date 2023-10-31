@@ -9,4 +9,14 @@ My current research interests lie in the dialogue system, large-scale language m
 
 📫 Contact me via lantiangmftby[AT]gmail[DOT]com.
 
+## My GitHub Stats:
+
 ![Tian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmftbyGMFTBY&show_icons=true&theme=dracula)
+
+## My Most Used Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmftbyGMFTBY&hide_progress=false)
+
+## My Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gmftbyGMFTBY)](https://github.com/gmftbyGMFTBY/github-profile-trophy)
